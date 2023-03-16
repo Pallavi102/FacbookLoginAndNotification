@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187546034127",
+    "project_id": "facebookloginandnotification",
+    "storage_bucket": "facebookloginandnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187546034127:android:5b33134b91585d7ba07cba",
+        "android_client_info": {
+          "package_name": "com.pallavi.facbookloginandnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187546034127-n9opijjfuhctvfh1c0po5j79gcmv92jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZPeCR2s1WC-MX6u_FYcpepx8QfcTYVR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187546034127-n9opijjfuhctvfh1c0po5j79gcmv92jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
